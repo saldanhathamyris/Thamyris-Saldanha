@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Thamyris Saldanha!
+# 👋 Olá, eu sou Thamyris Saldanha!
 
 🎓 Bacharel em Administração | Estudante de Análise e Desenvolvimento de Sistemas  
 🌎 Técnica em Espanhol | Interessada em Desenvolvimento de Software e Tecnologia  
